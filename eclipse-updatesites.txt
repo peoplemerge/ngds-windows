@@ -1,0 +1,4 @@
+http://dl.google.com/eclipse/plugin/3.7
+http://download.eclipse.org/technology/m2e/releases
+http://download.eclipse.org/egit/updates
+http://cbes.javaforge.com/update

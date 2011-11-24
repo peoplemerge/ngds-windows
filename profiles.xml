@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- System profile database.
+
+     Lists profiles available to the systems. A profile represents a certain
+     selection of packages from the packages database. Profiles can depend on
+     other profiles, the end result being the sum of all required packages.
+     
+     THIS IS A SAMPLE FILE
+     
+     For more info, see http://wpkg.org/index.php/Category:Documentation
+
+-->
+
+<profiles>
+
+    <profile id="custom">
+        <package package-id="jdk6" />
+	<package package-id="7zip" />
+	<package package-id="eclipse-indigo" />
+	<package package-id="maven" />
+	<package package-id="gwt" />
+    </profile>
+
+
+</profiles>
